@@ -22,28 +22,6 @@ A simple and elegant **Random Number Generator** built using **HTML, CSS, and Ja
 
 ---
 
-## 🖥️ How to Use
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/random-number-generator.git
-cd random-number-generator
-// Formula to generate a random integer between two values:
-Math.floor(Math.random() * (max - min + 1)) + min;
-✨ Future Enhancements
-Theme toggle (light/dark mode)
-
-Allow decimal input
-
-Mobile-responsive layout
-
-Option to copy the result to clipboard
-
-⭐ Support
-If you found this helpful, please ⭐ star the repo and share it!
-Feel free to open issues or contribute via pull requests.
-
 
 
 
