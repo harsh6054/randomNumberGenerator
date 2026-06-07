@@ -4,16 +4,13 @@ A simple and elegant **Random Number Generator** built using **HTML, CSS, and Ja
 
 ---
 
-
 ## 🚀 Features
-
 - 🔢 Generate a random integer between a user-defined min and max
 - 🧾 Input validation for edge cases
 - 🎨 Modern, responsive, and animated UI
 - ✅ No frameworks or libraries required — Pure HTML/CSS/JS
 
 ---
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure  
